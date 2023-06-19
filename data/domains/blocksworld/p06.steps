@@ -1,0 +1,13 @@
+Unstack object b5 from object b3.
+Put down object b5.
+Unstack object b3 from object b4.
+Stack object b3 on top of object b5.
+Unstack object b4 from object b2.
+Put down object b4.
+Unstack object b2 from object b1.
+Put down object b2.
+Pick up object b1.
+Stack object b1 on top of object b2.
+Pick up object b4.
+Stack object b4 on top of object b1.
+
